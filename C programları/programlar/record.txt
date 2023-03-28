@@ -1,0 +1,16 @@
+Player Name :Alihan
+Played Date:Mon Dec 21 02:57:33 2020
+Score:11
+___________________________________________________
+Player Name :çlhan
+Played Date:Mon Dec 21 02:58:16 2020
+Score:5
+___________________________________________________
+Player Name :Orhan
+Played Date:Mon Dec 21 02:58:37 2020
+Score:0
+___________________________________________________
+Player Name :Alian
+Played Date:Mon Jan 11 22:23:02 2021
+Score:10
+___________________________________________________
